@@ -8,6 +8,9 @@ import CommonForm from "@/components/config/form";
 import { AuthContext } from "@/components/context/AuthContext";
 import { signInFormControls, signUpFormControls } from "@/components/config/signUpFormControls";
 import Navbar from "@/components/students/Navbar";
+import { useNavigate } from "react-router-dom";
+import { useEffect } from "react";
+
 function AuthPage() {
 
     const [activeTab, setActiveTab] = useState('signin');
@@ -17,7 +20,18 @@ function AuthPage() {
         signUpFormData, setSignUpFormData,
         handleRegisterUser,
         handleLoginUser,
+        handleLogout,
+        isAuthenticated
     } = useContext(AuthContext);
+    
+    const navigate = useNavigate();
+    
+    useEffect(() => {
+        if (isAuthenticated) {
+            navigate("/");
+        }
+    }, [isAuthenticated, navigate]);
+    
 
     function handleTabChange(value) {
         setActiveTab(value);
