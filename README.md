@@ -44,18 +44,25 @@ lms-mern-website/
 ├── package.json
 └── README.md
 
-##🌐 Live Demo
+---
+
+## 🌐 Live Demo
 Coming soon (if deployed)...
 
-##🧪 Future Improvements
-Quiz & certification features
+---
 
+## 🧪 Future Improvements
+Quiz & certification features
 Instructor dashboard
 
-##🧑‍💻 Author
+---
+
+## 🧑‍💻 Author
 Ashia Sultana
 📍 GitHub Profile
 ✉️ Contact: https://github.com/ashia-002
+
+---
 
 ## ⚙️ Setup Instructions
 
