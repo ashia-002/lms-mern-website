@@ -52,15 +52,15 @@ Coming soon (if deployed)...
 ---
 
 ## 🧪 Future Improvements
-Quiz & certification features
-Instructor dashboard
+-Quiz & certification features
+=Instructor dashboard
 
 ---
 
 ## 🧑‍💻 Author
-Ashia Sultana
-📍 GitHub Profile
-✉️ Contact: https://github.com/ashia-002
+-Ashia Sultana
+-📍 GitHub Profile
+-✉️ Contact: https://github.com/ashia-002
 
 ---
 
