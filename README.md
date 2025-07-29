@@ -31,18 +31,18 @@ A full-featured **Learning Management System (LMS)** built using the **MERN stac
 ## 📁 Folder Structure
 
 lms-mern-website/
-├── client/ # React frontend
-│ ├── public/
-│ └── src/
-├── server/ # Node.js backend
-│ ├── config/
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ └── middleware/
-├── .env
-├── package.json
-└── README.md
+- ├── client/ # React frontend
+- │ ├── public/
+- │ └── src/
+- ├── server/ # Node.js backend
+- │ ├── config/
+- │ ├── controllers/
+- │ ├── models/
+- │ ├── routes/
+- │ └── middleware/
+- ├── .env
+- ├── package.json
+- └── README.md
 
 ---
 
@@ -52,15 +52,15 @@ Coming soon (if deployed)...
 ---
 
 ## 🧪 Future Improvements
--Quiz & certification features
-=Instructor dashboard
+- Quiz & certification features
+= Instructor dashboard
 
 ---
 
 ## 🧑‍💻 Author
-###Ashia Sultana
-###📍 GitHub Profile
-###✉️ Contact: https://github.com/ashia-002
+- Ashia Sultana
+- 📍 GitHub Profile
+- ✉️ Contact: https://github.com/ashia-002
 
 ---
 
