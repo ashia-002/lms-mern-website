@@ -58,9 +58,9 @@ Coming soon (if deployed)...
 ---
 
 ## 🧑‍💻 Author
--Ashia Sultana
--📍 GitHub Profile
--✉️ Contact: https://github.com/ashia-002
+###Ashia Sultana
+###📍 GitHub Profile
+###✉️ Contact: https://github.com/ashia-002
 
 ---
 
